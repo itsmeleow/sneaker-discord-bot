@@ -1,0 +1,27 @@
+{
+  "name": "sneaker-discord-bot",
+  "version": "0.0.1",
+  "description": "sneaker focused discord bot built with discord.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeleow/sneaker-discord-bot.git"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeleow/sneaker-discord-bot/issues"
+  },
+  "homepage": "https://github.com/itsmeleow/sneaker-discord-bot#readme",
+  "dependencies": {
+    "console-stamp": "^3.0.3",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "jsdom": "^16.6.0",
+    "request-promise": "^4.2.6",
+    "requests": "^0.3.0"
+  }
+}

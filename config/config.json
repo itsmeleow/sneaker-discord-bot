@@ -1,0 +1,8 @@
+{  
+    "discordBotToken": "HIDDEN-FOR-PRIVACY-REPLACE-HERE",
+    "colorHexCode": "#000000",
+    "embedFooter": "@nucleisoftware",
+    "pingRoleID": "REPLACE-ID-HERE",
+    "checkpointChannelID": "REPLACE-ID-HERE", 
+    "shopifyChannelID": "REPLACE-ID-HERE"
+}
